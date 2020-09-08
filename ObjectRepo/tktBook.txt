@@ -1,0 +1,14 @@
+ddmSourceCity::name::fromPort
+ddmDestCity::name::toPort
+flightTable::xpath:://table[contains(@class,'table')]
+txtPersonName::id::inputName
+txtPersonAddr::id::address
+txtPersonCity::id::city
+txtPersonState::id::state
+txtPersonZipCode::id::zipCode
+ddmPersonCardType::name::cardType
+txtPersonCardNum::id::creditCardNumber
+txtPersonCardMonth::id::creditCardMonth
+txtPersonCardYear::id::creditCardYear
+txtPersonCardName::id::nameOnCard
+btnSubmit::xpath:://div//input[@type='submit']
